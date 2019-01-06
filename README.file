@@ -1,0 +1,14 @@
+# Analog-Clock
+Here's few idea about the project.
+first: This project will show an analog clock.
+Second: Using this anyone can get local time.
+Functions:
+When project will open a welcome screen will appear. This page will show developer’s name and a progress bar. 
+After completing the progress bar the clock will be shown. It has twelve labeled number from 1 to 12.
+The position of the second, minute and hour hand’s indicate time. In every second the clock will give a single beep.
+And in every hour the clock will give a long time beep.
+
+
+
+
+
